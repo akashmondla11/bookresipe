@@ -1,6 +1,6 @@
 # A project by (Group A)
 
-# Getting Started with Create Resipe Book App
+# Getting Started with  Resipe Book App
 
 In the project directory, you can run:
 
