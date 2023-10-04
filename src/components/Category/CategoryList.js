@@ -6,7 +6,7 @@ const CategoryList = ({categories}) => {
   return (
     <div className='section-wrapper bg-whitesmoke'>
         <div className='container'>
-          <div className='sc-title'>categories</div>
+          <div className='sc-title'>food categories</div>
           <section className='sc-category grid'>
             {
               categories.map(category => {
